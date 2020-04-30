@@ -1,0 +1,32 @@
+
+TEAM_OIL
+by william mcgonagle
+
+
+
+In this volitile world of capitalism, two major oil companies stand strong, DeepBlue and SnowTop. Both companies are trying to become the most profitable, and to do that, they must know all of one another's secrets.
+
+
+The major resource for this challenge is the management server, built in C#. The management server controls communications between oil vessels, drillers, and other items in the company pipeline. So, if this server were to go down, or be manipulated, the company would lose millions of dollars. This server has 10 normal flags hidden in and around it.
+
+The first secondary resource is the company website, built in PHP and hosted with Apache. The webserver allows clients to talk to the oil company, discuss oil prices and purchases, and get information about the staff of the company. If this server went down, the company would be unable to keep getting new clients and interest from the world. This webserver has 5 flags hidden in and around it.
+
+The second, secondary resource is the CEO's computer, in which information for access can be found from the website. The CEO is one of the most important members of a company. They make decisions about what directions the company will take, but if their computer stops working or is manipulated, it could really hurt the company. The CEO's computer has 5 flags hidden in and around it. 
+
+In total, there are 20 flags hidden in and around the resources. These flags are stored like standard wctf flags, see the rules if you are unfamiliar. 
+
+
+Your jobs as 'independent contractors' working for the oil companies mean that you must keep your own companies resources online and unmanipulated while trying to take down and manipulate the other company's resources. 
+
+
+
+***HIDDEN***
+
+__EVENTS__
+
+10 mins in - Your buddies from the dark net tell you that they have found the information for the CEO's computer.
+20 mins in - The same friends from the dark net tell you that they have found the Management Server.
+
+***END*HIDDEN***
+
+
