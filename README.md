@@ -10,3 +10,7 @@ A boilerplate for open source and new-wave hacking competitions.
 
 `wctf` can be used anywhere! It's availible under the ISC license, so that means you can do whatever you want with the project's code, but you __have to say where you got this code from.__
 
+## What type of competitions do we have?
+- TEAM_CTF
+- SOLO_CTF
+- KOTH_CTF
